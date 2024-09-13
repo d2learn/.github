@@ -12,9 +12,9 @@
 
 **论坛/交流**
 
-- [d2learn综合社区](https://github.com/orgs/d2learn/discussions): 代码分享、问题讨论、社区发展、想法交流等各种社区相关问题
-- 各项目issues: 对应项目的问题/Bug反馈、功能请求
 - 即时交流群(Q): 167535744
+- 各项目issues: 对应项目的问题/Bug反馈、功能请求
+- [d2learn综合社区](https://github.com/orgs/d2learn/discussions): 代码/经验分享、社区发展、想法交流等社区相关问题
 
 **参与开发和维护**
 
