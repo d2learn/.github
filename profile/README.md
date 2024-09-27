@@ -27,5 +27,5 @@
 > 如果你有好的项目想法, 欢迎和社区维护者进行交流讨论哦 👋
 
 
-| 📄 [社区文档](https://d2learn.github.io/docs) - 👥 [社区论坛](https://github.com/orgs/d2learn/discussions) -  🐛 [issues看板](https://github.com/orgs/d2learn/projects/1/views/1) -  🚀 [项目开发看板](https://github.com/orgs/d2learn/projects/2/views/1) |
+| 🎓 [课程主页](https://d2learn.github.io/courses) - 📄 [社区文档](https://d2learn.github.io/docs) - 👥 [社区论坛](https://github.com/orgs/d2learn/discussions) -  🐛 [issues看板](https://github.com/orgs/d2learn/projects/1/views/1) -  🚀 [项目开发看板](https://github.com/orgs/d2learn/projects/2/views/1) |
 | ------------------------------------------------------------ |
