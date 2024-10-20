@@ -15,7 +15,7 @@
 
 - 即时交流群(Q): 167535744
 - 各项目issues: 对应项目的问题/Bug反馈、功能请求
-- [d2learn综合社区](https://github.com/orgs/d2learn/discussions): 代码/经验分享、社区发展、想法交流等社区相关问题
+- [d2learn综合社区](https://forum.d2learn.org): 代码/经验分享、社区发展、想法交流等社区相关问题
 
 **参与开发和维护**
 
@@ -27,5 +27,5 @@
 > 如果你有好的项目想法, 欢迎和社区维护者进行交流讨论哦 👋
 
 
-| 🎓 [课程主页](https://d2learn.github.io/courses) - 📄 [社区文档](https://d2learn.github.io/docs) - 👥 [社区论坛](https://forum.d2learn.org) -  🐛 [issues看板](https://github.com/orgs/d2learn/projects/1/views/1) -  🚀 [项目开发看板](https://github.com/orgs/d2learn/projects/2/views/1) |
+| 🎓 [课程主页](https://courses.d2learn.org) - 📄 [社区文档](https://d2learn.github.io/docs) - 👥 [社区论坛](https://forum.d2learn.org) -  🐛 [issues看板](https://github.com/orgs/d2learn/projects/1/views/1) -  🚀 [项目开发看板](https://github.com/orgs/d2learn/projects/2/views/1) |
 | ------------------------------------------------------------ |
