@@ -6,14 +6,11 @@ An open source enthusiast community - **knowledge, technology, code, projects, a
 
 ### 孵化的社区和项目
 
-#### [`mcpp-community | 现代C++爱好者社区`](https://github.com/mcpp-community) - [官网](https://mcpp.d2learn.org)
-
-> 
-
+#### `mcpp-community | 现代C++爱好者社区` - [官网](https://mcpp.d2learn.org)
   - [d2mcpp | 动手学现代C++核心语言特性](https://github.com/mcpp-community/d2mcpp)
   - [mcpp-style-ref | 现代C++风格参考](https://github.com/mcpp-community/mcpp-style-ref)
 
-#### [`openxlings | 万物皆可成包`](https://github.com/mcpp-community) - [官网](https://xlings.d2learn.org)
+#### `openxlings | 万物皆可成包` - [官网](https://xlings.d2learn.org)
   - [xlings | 通用包管理器](https://github.com/openxlings/xlings)
   - [xim-pkgindex | 官方包索引](https://github.com/openxlings/xim-pkgindex)
 
