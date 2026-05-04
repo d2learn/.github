@@ -4,18 +4,24 @@
 
 An open source enthusiast community - **knowledge, technology, code, projects, and ideas are open source**
 
+### 孵化的社区和项目
+
+#### [`mcpp-community | 现代C++爱好者社区`](https://github.com/mcpp-community) - [官网](https://mcpp.d2learn.org)
+
+> 
+
+  - [d2mcpp | 动手学现代C++核心语言特性](https://github.com/mcpp-community/d2mcpp)
+  - [mcpp-style-ref | 现代C++风格参考](https://github.com/mcpp-community/mcpp-style-ref)
+
+#### [`openxlings | 万物皆可成包`](https://github.com/mcpp-community) - [官网](https://xlings.d2learn.org)
+  - [xlings | 通用包管理器](https://github.com/openxlings/xlings)
+  - [xim-pkgindex | 官方包索引](https://github.com/openxlings/xim-pkgindex)
+
 ### :octocat: 参与社区讨论和贡献
 
 **论坛/交流**
 
 - 即时交流群(Q): 167535744
 - 👥 [社区论坛](https://forum.d2learn.org)
-
-**参与开发和维护**
-
-- 解答社区中用户的问题
-- 修复项目Bug, 完善项目文档
-- 参与新功能和新模块的开发
-- 创建新的**类d2x**项目
 
 > 如果你有好的项目想法, 欢迎和社区维护者进行交流讨论哦 👋
